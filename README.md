@@ -10,3 +10,4 @@
 
 5/7/24
     -Revert changes and start from scratch because I am a man and want to keep things simple 
+    -Made calculator style less fancy for the sake of getting into the js coding portion
